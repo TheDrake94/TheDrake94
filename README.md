@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+In+my+Github+Profile+%7C%7C+FB;A+Data+Enthusiast+From+Italy+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+In+my+Github+Profile+%7C%7C+FB;A+Data+Enthusiast+From+Italy+" alt="Typing SVG" /></a>
+</p>
 
     
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
