@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 - 📫 How to reach me **job@fabriziobrancato.com**
-- 🇮🇹 Italia
-🇮🇹 Italy
-:earth_africa: - :earth_africa:
-:computer: - :computer:
-:it: - :it:
+
+- :earth_africa: - :earth_africa: **www.fabriziobrancato.com**
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/fabrizio-brancato-189637246/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Fabrizio Brancato Linkedin" height="30" width="40" /></a>
