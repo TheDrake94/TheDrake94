@@ -6,6 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 - 📫 How to reach me **job@fabriziobrancato.com**
+- 🇮🇹 Italia
+🇮🇹 Italy
 :earth_africa: - :earth_africa:
 :computer: - :computer:
 :it: - :it:
