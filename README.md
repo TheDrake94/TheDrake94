@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **job@fabriziobrancato.com**
 
-- :earth_africa: - :earth_africa: **www.fabriziobrancato.com**
-- :🇮🇹
+- :earth_africa: **www.fabriziobrancato.com**
 
 
 
