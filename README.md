@@ -37,6 +37,6 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="PostgresSQL" width="30px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;margin-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
 
