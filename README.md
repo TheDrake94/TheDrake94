@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Python" width="30px masrgin-" style="margin-right:10px; margin-bottom:10px; margin-top:10px; margin-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="margin-right:10px; margin-bottom:10px; margin-top:10px; margin-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <img align="left" alt="Numpy" width="30px" style="margin-right:10px;margin-bottom:10px; margin-top:10px; margin-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
