@@ -1,8 +1,10 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Software+Architect+%7C+Data+%26+ML+Systems;Data+Engineer+%7C+Machine+Learning+Engineer;Designing+scalable+data-driven+architectures" />
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=720&lines=Software+Architect+%7C+Data+Engineer+%7C+Data+Scientist;Designing+scalable+data-driven+systems"
+  alt="Typing SVG"
+/>
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/TheDrake94/TheDrake94/refs/heads/main/dev.gif" width="520" alt="Architecture Illustration"/>
@@ -13,8 +15,7 @@
 
 ## 👋 Hi, I'm **Fabrizio Brancato**
 
-**Software Architect**  
-**Data Engineer | Data Scientist**  
+**Software Architect** | **Data Engineer | Data Scientist**  
 📍 Italy · 🌍 Open to remote opportunities
 
 ---
