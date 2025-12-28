@@ -7,21 +7,28 @@
   </a>
 </p>
 
-<img align="right" alt="Architecture" width="380" src="https://indoanalytica.com/static/images/data-science-2.gif"/>
+<img align="right" alt="Architecture" width="380" src="[https://indoanalytica.com/static/images/data-science-2.gif](https://raw.githubusercontent.com/TheDrake94/TheDrake94/refs/heads/main/dev.gif)"/>
 
 # 👋 Hi, I'm **Fabrizio Brancato**
 
-**Software Architect (Data & ML Systems)**  
-**Data Engineer | Machine Learning Engineer**  
+**Software Architect**  
+**Data Engineer | Data Scientist**  
 📍 Italy | 🌍 Open to remote opportunities
 
 ---
 
 ## 🧠 About Me
 
-Software Architect specialized in **data-intensive and machine learning systems**, with hands-on experience in **system design, data engineering, ML pipelines, and cloud-native architectures**.
+Software Architect specialized in data-intensive, machine learning, and AI-driven systems, with hands-on experience in system design, data engineering, ML pipelines, deep learning, and cloud-native architectures.
 
-I focus on building **scalable, reliable, production-grade systems**, from architecture design to deployment.
+I design and build scalable, reliable, production-grade systems, covering the full lifecycle from architecture design to deployment and monitoring.
+My work includes the integration of Large Language Models (LLMs) and deep learning models into real-world applications, with a strong focus on performance, scalability, and maintainability.
+
+I pay particular attention to:
+
+Designing architectures for LLM-powered applications
+
+Integrating deep learning models into existing systems
 
 ---
 
@@ -47,9 +54,10 @@ I focus on building **scalable, reliable, production-grade systems**, from archi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
 </p>
-
-<p><strong>Query:</strong> SQL</p>
 
 ---
 
