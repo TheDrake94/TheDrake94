@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img align="right" alt="Architecture" width="380" src="[https://indoanalytica.com/static/images/data-science-2.gif](https://raw.githubusercontent.com/TheDrake94/TheDrake94/refs/heads/main/dev.gif)"/>
+<img align="right" alt="Architecture" width="380" src="https://raw.githubusercontent.com/TheDrake94/TheDrake94/refs/heads/main/dev.gif"/>
 
 # 👋 Hi, I'm **Fabrizio Brancato**
 
@@ -27,7 +27,6 @@ My work includes the integration of Large Language Models (LLMs) and deep learni
 I pay particular attention to:
 
 Designing architectures for LLM-powered applications
-
 Integrating deep learning models into existing systems
 
 ---
@@ -55,7 +54,7 @@ Integrating deep learning models into existing systems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
 </p>
 
@@ -77,7 +76,6 @@ Integrating deep learning models into existing systems
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="35"/>
 </p>
 
@@ -85,7 +83,7 @@ Integrating deep learning models into existing systems
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="35"/>
